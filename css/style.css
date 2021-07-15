@@ -13,3 +13,7 @@
     height: 200px;
     background: #aaa;
 }
+
+.badge.rounded-pill.bg-success {
+    margin-right: 5px;
+}
