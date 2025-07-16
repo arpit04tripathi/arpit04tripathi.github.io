@@ -7,4 +7,4 @@ description: Portfolio Page
 
 # configs
 show_downloads: false
-show_github: true
+show_github: false
