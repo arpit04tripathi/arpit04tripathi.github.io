@@ -11,3 +11,4 @@ External Links
 - [LinkedIn](https://www.linkedin.com/in/arpit04tripathi){:target="_blank"}
 - [HackerRank](https://www.hackerrank.com/arpit04tripathi){:target="_blank"}
 - [Github](https://github.com/arpit04tripathi){:target="_blank"}
+- [about](about-me)
